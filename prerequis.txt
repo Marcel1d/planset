@@ -1,0 +1,4 @@
+base de donnees firebase --> création de compte
+--> stocker data en remote (firebase tjrs, peut etre voir autre)
+
+utilisation calendrier natif
